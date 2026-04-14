@@ -1,98 +1,77 @@
+<!-- HEADER MULTI COLOR -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:FF00FF,100:00FF00&height=200&section=header&text=Mayur%20DevOps%20System&fontColor=ffffff&fontSize=35"/>
+</p>
+
+<!-- MULTI COLOR TYPING -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=2000&color=00FF00&center=true&vCenter=true&width=800&lines=ACCESS+GRANTED+🟢;Initializing+Mayur+System...;DevOps+Engineer+⚡;AWS+%7C+Docker+%7C+CI%2FCD;Hacker+Mode+Activated+💀" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=2000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Mayur;DevOps+Engineer+🚀;AWS+%7C+Docker+%7C+CI%2FCD;Automation+%26+Cloud+Expert;Always+Learning+⚡" />
 </h1>
 
 ---
 
+### 💻 LIVE TERMINAL
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=120&section=header&text=SYSTEM%20BOOTING...&fontColor=00FF00&fontSize=30"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=2000&color=00FF00&center=true&vCenter=true&width=800&lines=root@mayur:~%24+whoami;Mayur+Patil;root@mayur:~%24+role;DevOps+Engineer;root@mayur:~%24+skills;AWS+Docker+Kubernetes+CI%2FCD;root@mayur:~%24+status;System+Active+🟢" />
 </p>
 
 ---
 
+### ⚙️ TECH STACK
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx&theme=light" />
+</p>
+
+---
+
+### 📊 REAL-TIME STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=limayur8166-dotcom&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limayur8166-dotcom&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+### 📈 LIVE ACTIVITY GRAPH (AUTO UPDATE)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=limayur8166-dotcom&theme=react-dark&bg_color=000000&color=00FF00&line=FF00FF&point=00F7FF"/>
+</p>
+
+---
+
+### 🧠 PROJECT TERMINAL
+
+```bash
+root@projects:~# list
+- CI/CD Pipeline → GitHub Actions → ECS
+- Docker App → Container Deployment
+- AWS VPC → Secure Architecture
+- Monitoring → CloudWatch Alerts
+```
+
+---
+
+### 🌐 PORTFOLIO
+
 <p align="center">
   <a href="https://limayur8166-dotcom.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20ENTER%20PORTFOLIO-00FF00?style=for-the-badge&logo=tor-browser&logoColor=black"/>
+    <img src="https://img.shields.io/badge/OPEN_PORTFOLIO-FF00FF?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### 🖥️ TERMINAL.IDENTITY
-
-```bash
-root@mayur:~# whoami
-Mayur Patil
-
-root@mayur:~# role
-DevOps Engineer
-
-root@mayur:~# skills
-AWS | Docker | Kubernetes | CI/CD | Networking
-
-root@mayur:~# mission
-Automate • Scale • Secure
-```
-
----
-
-### 🧬 SYSTEM.SKILLS
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,nginx" />
-</p>
-
----
-
-### 📡 LIVE.SYSTEM.STATS
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=limayur8166-dotcom&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=limayur8166-dotcom&theme=chartreuse-dark&hide_border=true"/>
-</p>
-
----
-
-### 📈 NETWORK.ACTIVITY
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=limayur8166-dotcom&theme=chartreuse-dark"/>
-</p>
-
----
-
-### 🧠 PROJECT.DATABASE
-
-```yaml
-- CI/CD Pipeline:
-    GitHub Actions → Docker → AWS ECS
-
-- Docker Deployment:
-    Full Stack Container System
-
-- AWS Infrastructure:
-    VPC + Security + Scaling
-
-- Monitoring:
-    CloudWatch + Logs + Alerts
-```
-
----
-
-### 💻 LIVE.HACKER.FEED
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
-</p>
-
----
-
-### 📡 CONNECT.TERMINAL
+### 📡 CONNECT
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mayur-patil-4aa4ba313/">
-    <img src="https://img.shields.io/badge/LINKEDIN-00FF00?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="mailto:limayur8166@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
@@ -101,14 +80,16 @@ Automate • Scale • Secure
 
 ---
 
-### ⚡ FINAL.COMMAND
+### ⚡ LIVE SYSTEM LOG
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2000&color=00FF00&center=true&vCenter=true&width=800&lines=System+Ready+✔️;Deploying+Infrastructure...;Automation+In+Progress...;Access+Complete+🔥" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2000&color=FF00FF&center=true&vCenter=true&width=900&lines=Deploying+Infrastructure...;Running+CI%2FCD...;Monitoring+Systems...;All+Systems+Operational+🔥" />
 </p>
 
 ---
 
+<!-- FOOTER -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:00FF00&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF00,50:FF00FF,100:00F7FF&height=120&section=footer"/>
 </p>
