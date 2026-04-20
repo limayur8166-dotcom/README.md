@@ -69,13 +69,35 @@ root@projects:~# list
 
 ### 📡 CONNECT
 
+### 🚀 HIRE & CONNECT
+
 <p align="center">
+
+  <!-- 🔥 HIRE ME (GLOW EFFECT) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=limayur8166@gmail.com&su=Hiring%20Mayur%20DevOps&body=Hi%20Mayur,%20I%20want%20to%20hire%20you%20for%20a%20DevOps%20role.">
+    <img src="https://img.shields.io/badge/HIRE_ME-FF0000?style=for-the-badge&logo=fire&logoColor=white"/>
+  </a>
+
+  <!-- 💼 LINKEDIN -->
   <a href="https://www.linkedin.com/in/mayur-patil-4aa4ba313/">
     <img src="https://img.shields.io/badge/LINKEDIN-00F7FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
-  <a href="mailto:limayur8166@gmail.com">
+
+  <!-- 📧 EMAIL (GMAIL DIRECT) -->
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=limayur8166@gmail.com&su=Contact%20from%20Portfolio&body=Hello%20Mayur,%20I%20visited%20your%20portfolio.">
     <img src="https://img.shields.io/badge/EMAIL-00FF00?style=for-the-badge&logo=gmail&logoColor=black"/>
   </a>
+
+  <!-- 📱 WHATSAPP -->
+  <a href="https://wa.me/91XXXXXXXXXX">
+    <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+
+  <!-- 📄 RESUME DOWNLOAD -->
+  <a href="https://your-portfolio-link/resume.pdf">
+    <img src="https://img.shields.io/badge/RESUME_DOWNLOAD-000000?style=for-the-badge&logo=adobeacrobatreader&logoColor=red"/>
+  </a>
+
 </p>
 
 ---
